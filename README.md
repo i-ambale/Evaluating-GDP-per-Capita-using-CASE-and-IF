@@ -33,7 +33,7 @@ In this notebook, you'll:
   
   - Apply conditional logic using `IF` and `CASE` to group countries into income categories such as `'Low'`, `'Medium'`, and `'High'`.
 
-    ---
+---
 ## 🧮 Tools & Technologies
 - SQL (MySQL)
 
